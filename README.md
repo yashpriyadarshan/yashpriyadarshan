@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @yashpriyadarshan
+- 👀 I’m interested in Java, C++, Data Structure and Algorithms and Competitive Programming 
+- 🌱 I’m currently persuing B.Tech in Computer Science and Engineering 
+- 📫 Contact me for further talks
+     - yashpriyadarshan@gmail.com
