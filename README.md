@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Java and DSA**
 
-- 📫 How to reach me **yashpriyadarshan@gmail.com**
+- 📫 Connect with me at **yashpriyadarshan@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
