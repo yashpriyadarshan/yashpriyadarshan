@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yash Priyadarshan</h1>
 <h3 align="center">A passionate Java and Frontend developer from India.</h3>
 
-<img scr="" width = "100%" >
-<img align="center" src="https://w7.pngwing.com/pngs/673/954/png-transparent-google-logo-google-s-google-text-trademark-logo.png" alt="yashpriydarshan" height="30" width="40" />
 
 - 🌱 I’m currently learning **DSA**
 
