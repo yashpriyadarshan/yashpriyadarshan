@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Yash Priyadarshan</h1>
 <h3 align="center">A passionate Java and Frontend developer from India.</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yashpriyadarshan&label=Profile%20views&color=0e75b6&style=flat" alt="yashpriyadarshan" /> </p>
+
 
 - 🌱 I’m currently learning **DSA**
 
