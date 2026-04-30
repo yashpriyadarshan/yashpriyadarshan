@@ -55,7 +55,7 @@
 # 🛠 Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,postgres,redis,docker,nodejs,react,html,css,js,python,cpp,c,cs,git,github,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=java,spring,postgres,redis,docker,react,idea,webstorm,vscode,html,css,js,python,git,github,linux,bash,npm,maven,azure" />
 </div>
 
 <br>
