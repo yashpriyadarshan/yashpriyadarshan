@@ -1,35 +1,121 @@
-<h1 align="center">Hi 👋, I'm Yash Priyadarshan</h1>
-<h3 align="center">A passionate Java and Frontend developer from India.</h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=0:0f172a,100:2563eb&height=240&section=header&text=Yash%20Priyadarshan&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yashpriyadarshan&label=Profile%20views&color=0e75b6&style=flat" alt="yashpriyadarshan" /> </p>
+  <h3 align="center">
+    Backend Engineer • Deterministic Systems Builder • AI Tooling Developer
+  </h3>
 
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=yashpriyadarshan&label=Profile%20Views&color=2563eb&style=for-the-badge" />
+    <img src="https://img.shields.io/github/followers/yashpriyadarshan?style=for-the-badge&color=2563eb" />
+  </p>
+</div>
 
-- 🌱 I’m currently learning **DSA**
+---
 
-- 👯 I’m looking to collaborate on **Java Beginner projects**
+# 🚀 Featured Projects
 
-- 🤝 I’m looking for help with **DSA**
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>⚡ D.U.M.B.</h3>
+      <p><i>Deterministic User-Managed Builder</i></p>
+      <p>A terminal-native AI coding assistant focused on developer control and diagnostic-first execution.</p>
+      <ul>
+        <li>Adaptive multi-model orchestration (Llama 8B/70B/405B).</li>
+        <li>Deterministic tool usage (Surgical Edits, Regex Search).</li>
+        <li>Context-aware project scanning.</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/Java%2021-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+        <img src="https://img.shields.io/badge/AI-Orchestration-blue?style=flat-square" />
+      </p>
+      <a href="https://github.com/yashpriyadarshan/DUMB"><b>View Repository →</b></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>💼 BreakingJob</h3>
+      <p><i>AI-Powered Hiring Platform</i></p>
+      <p>Next-gen microservices platform for AI-driven interviews and candidate scoring.</p>
+      <ul>
+        <li>Spring Boot Microservices architecture.</li>
+        <li>AI-generated interview questions & analytics.</li>
+        <li>Distributed backend with PostgreSQL & Redis.</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+        <img src="https://img.shields.io/badge/Microservices-FFCA28?style=flat-square" />
+      </p>
+      <a href="https://github.com/yashpriyadarshan/BreakingJob"><b>Repository →</b></a> • <a href="https://breakingjob.vercel.app/"><b>Live Demo →</b></a>
+    </td>
+  </tr>
+</table>
 
-- 📝 I regularly write articles on [Twitter](Twitter)
+---
 
-- 💬 Ask me about **Java and DSA**
+# 🛠 Tech Stack
 
-- 📫 Connect with me at **yashpriyadarshan@gmail.com**
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,postgres,redis,docker,nodejs,react,html,css,js,python,cpp,c,cs,git,github,linux,vscode" />
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/yashpriydarshan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yashpriydarshan" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/yash-priyadarshan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yash-priyadarshan" height="30" width="40" /></a>
-<a href="https://fb.com/itsyash00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="itsyash00" height="30" width="40" /></a>
-<a href="https://instagram.com/yash_priyadarshan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yash_priyadarshan" height="30" width="40" /></a>
-<a href="https://hashnode.com/@yashpriyadarshan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@yashpriyadarshan" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/yashpriaydarhsan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="yashpriaydarhsan" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/yashpriyadarshan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yashpriyadarshan" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/yashpriyadarshan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="yashpriyadarshan" height="30" width="40" /></a>
+<br>
+
+<table width="100%">
+  <tr>
+    <td width="33%" valign="top">
+      <strong>Languages</strong><br>
+      Java, C++, JavaScript, Python, C#
+    </td>
+    <td width="33%" valign="top">
+      <strong>Backend & Infra</strong><br>
+      Spring Boot, Node.js, PostgreSQL, Docker, Redis
+    </td>
+    <td width="33%" valign="top">
+      <strong>Tools & Platforms</strong><br>
+      Git, GitHub, Linux, VS Code, NVIDIA NIM
+    </td>
+  </tr>
+</table>
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yashpriyadarshan&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashpriyadarshan&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashpriyadarshan&theme=tokyonight&hide_border=true" width="100%" />
+</p>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/yashpriydarshan"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="yashpriydarshan" /></a></p><br><br>
+---
+
+# 🔗 Connect With Me
+
+<p align="center">
+  <a href="https://twitter.com/yashpriydarshan" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" width="45" /></a>
+  <a href="https://linkedin.com/in/yash-priyadarshan" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="45" /></a>
+  <a href="https://github.com/yashpriyadarshan" target="_blank"><img src="https://skillicons.dev/icons?i=github" width="45" /></a>
+  <a href="https://hashnode.com/@yashpriyadarshan" target="_blank"><img src="https://skillicons.dev/icons?i=hashnode" width="45" /></a>
+  <a href="https://www.leetcode.com/yashpriyadarshan" target="_blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" height="45" /></a>
+</p>
+
+<p align="center">
+  📫 <b>Email:</b> <a href="mailto:yashpriyadarshan@gmail.com">yashpriyadarshan@gmail.com</a>
+</p>
+
+---
+
+# ⚡ Engineering Philosophy
+
+<p align="center">
+  <i>"Build systems that are deterministic, scalable, and deeply engineered — not just assembled."</i>
+</p>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/render?type=rect&color=0f172a&height=30&section=footer" />
+</div>
