@@ -2,7 +2,7 @@
 
 Backend engineer focused on Java, distributed systems, microservices, and AI-powered applications.
 
-Currently building **[enterpise-llm-gateway](https://github.com/yashpriyadarshan/enterprise-llm-gateway)**, an AI-powered recruitment platform, while exploring developer tooling, LLM applications, and open-source software.
+Currently building **[enterpise-llm-gateway](https://github.com/yashpriyadarshan/enterprise-llm-gateway)**, Enterprise-grade AI Gateway that centralizes, secures, monitors, and optimizes access to multiple LLM providers, while exploring developer tooling, LLM applications, and open-source software.
 
 ### Tools
 
